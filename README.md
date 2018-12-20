@@ -10,5 +10,6 @@ ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 �
 2. 자신의 <학번>/<이름> 형태의 branch를 생성하시고 checkout해주세요.
 3. README.md 파일에 본인의 소개를 간단히 추가해 수정하십시오.
 4. max draw down을 계산하는 python file을 만드세요. (filename : 학번_이름.py) 함수를 이용하여 본 레퍼지토리의 price.csv 의 max draw down을 계산하세요.  (pandas, numpy 제외한 라이브러리 사용 불가)
+max draw down 참조 : https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp
 5. 1-4를 다 수행하셨으면 본 repository로 pull request를 날려주시면 됩니다.
 
