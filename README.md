@@ -13,3 +13,9 @@ ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 �
 max draw down 참조 : https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp
 5. 1-4를 다 수행하셨으면 본 repository로 pull request를 날려주시면 됩니다.
 
+## MFE 19학번 최찬규입니다.
+안녕하세요. QVI팀 신입 최찬규입니다.
+
+데이터를 구축 및 가공에 관심이 있어서 지원하게 되었습니다.
+
+꼭 기술지원팀에서 활동하고 싶습니다.
