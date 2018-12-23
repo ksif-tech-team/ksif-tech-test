@@ -1,4 +1,6 @@
-# 임강묵 20193502 ME 금융 Team DAR
+# Self Introduction
+
+임강묵 20193502 ME 금융 Team DAR
 
 # ksif-tech-test
 
