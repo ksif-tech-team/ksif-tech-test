@@ -27,7 +27,7 @@ window = 10
 
 df['mdd_noFunc'] = df.prc.rolling(window = window).apply(lambda x : (min(x)-max(x))/max(x))
 
-df['mdd1'] = calculateMdd(df,'ret',10)
+df['mdd1'] = calculateMdd(df,'ret',window)
 
 df.mdd1.plot()
 plt.show()
