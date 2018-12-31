@@ -12,3 +12,6 @@ ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 �
 4. max draw down을 계산하는 python file을 만드세요. (filename : 학번_이름.py) 함수를 이용하여 본 레퍼지토리의 price.csv 의 max draw down을 계산하세요.  (pandas, numpy 제외한 라이브러리 사용 불가)
 5. 1-4를 다 수행하셨으면 본 repository로 pull request를 날려주시면 됩니다.
 
+안녕하세요, 조상흠입니다!
+저는 지금 git을 배우고 있는 중입니다.
+
