@@ -13,3 +13,5 @@ ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 �
 max draw down 참조 : https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp
 5. 1-4를 다 수행하셨으면 본 repository로 pull request를 날려주시면 됩니다.
 
+안녕하세요, 조상흠입니다!
+저는 지금 git을 배우고 있는 중입니다.
