@@ -4,7 +4,7 @@
 
 ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 수행하시면 됩니다. 문의 사항과 ksif tech team에 대해 궁금하신 분들은 jiwoop.jj@gmail.com 으로 메일을 주시면 성심성의껏 대답해드리도록 하겠습니다. 이 과제는 12/31 11:59까지 입니다.
 
-### 과제 
+### 과제
 
 1. 본 repository를 본인 github account 에 fork해 가십시오.
 2. 자신의 <학번>/<이름> 형태의 branch를 생성하시고 checkout해주세요.
@@ -13,5 +13,14 @@ ksif tech team 과 같이 일하기를 원하는 fellow들은 다음 과제를 �
 max draw down 참조 : https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp
 5. 1-4를 다 수행하셨으면 본 repository로 pull request를 날려주시면 됩니다.
 
+
+## MFE 19학번 최찬규입니다.
+안녕하세요. QVI팀 신입 최찬규입니다.
+
+데이터를 구축 및 가공에 관심이 있어서 지원하게 되었습니다.
+
+꼭 기술지원팀에서 활동하고 싶습니다.
+
 안녕하세요, 조상흠입니다!
 저는 지금 git을 배우고 있는 중입니다.
+
